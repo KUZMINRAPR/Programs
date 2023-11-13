@@ -6,6 +6,6 @@ class Newint(int):
             return 5
         else:
             return self.x + other
-newint = Newint(3)
-print(newint + 3)
+newint = Newint(2)
+print(newint + 2)
 
